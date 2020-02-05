@@ -11,7 +11,7 @@ As soon as you begin recording the lecture with the tool of your choice,
 fire up the slide timer program. ``python3 slide_timer.py``.
 
 As the lecturer changes slides, click the advance slide button,
-and the timestamp will be recorded in in markdown tabular form.
+and the timestamp will be recorded in markdown tabular form.
 At the end of the lecture, close the Slide Timer app and copy and paste
 the Mardown table from your terminal into your Mardown document.
 
